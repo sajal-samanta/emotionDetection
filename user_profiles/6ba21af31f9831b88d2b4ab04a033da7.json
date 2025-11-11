@@ -1,0 +1,214 @@
+{
+  "username": "sajalsamanta964@gamail.com",
+  "user_id": "6ba21af31f9831b88d2b4ab04a033da7",
+  "created_at": "2025-11-02T21:22:13.510780",
+  "emotion_history": [
+    {
+      "emotion": "Neutral",
+      "confidence": 0.9444080591201782,
+      "timestamp": "2025-11-02T21:23:03.839966",
+      "session_id": "session_20251102_212303"
+    },
+    {
+      "emotion": "Happy",
+      "confidence": 0.5461010932922363,
+      "timestamp": "2025-11-02T21:23:04.721241",
+      "session_id": "session_20251102_212304"
+    },
+    {
+      "emotion": "Happy",
+      "confidence": 0.8832268118858337,
+      "timestamp": "2025-11-02T21:23:05.594040",
+      "session_id": "session_20251102_212305"
+    },
+    {
+      "emotion": "Happy",
+      "confidence": 0.8636607527732849,
+      "timestamp": "2025-11-02T21:23:07.125826",
+      "session_id": "session_20251102_212307"
+    },
+    {
+      "emotion": "Happy",
+      "confidence": 0.7062492966651917,
+      "timestamp": "2025-11-02T21:23:08.085278",
+      "session_id": "session_20251102_212308"
+    },
+    {
+      "emotion": "Happy",
+      "confidence": 0.5923135280609131,
+      "timestamp": "2025-11-02T21:23:09.024579",
+      "session_id": "session_20251102_212308"
+    },
+    {
+      "emotion": "Neutral",
+      "confidence": 0.729988157749176,
+      "timestamp": "2025-11-02T21:23:09.953027",
+      "session_id": "session_20251102_212309"
+    },
+    {
+      "emotion": "Neutral",
+      "confidence": 0.924881637096405,
+      "timestamp": "2025-11-02T21:23:10.916168",
+      "session_id": "session_20251102_212310"
+    },
+    {
+      "emotion": "Neutral",
+      "confidence": 0.8811956644058228,
+      "timestamp": "2025-11-02T21:23:11.763222",
+      "session_id": "session_20251102_212311"
+    },
+    {
+      "emotion": "Neutral",
+      "confidence": 0.9072875380516052,
+      "timestamp": "2025-11-02T21:23:12.648510",
+      "session_id": "session_20251102_212312"
+    },
+    {
+      "emotion": "Neutral",
+      "confidence": 0.880683183670044,
+      "timestamp": "2025-11-02T21:23:13.459952",
+      "session_id": "session_20251102_212313"
+    },
+    {
+      "emotion": "Neutral",
+      "confidence": 0.8938726782798767,
+      "timestamp": "2025-11-02T21:23:14.254533",
+      "session_id": "session_20251102_212314"
+    },
+    {
+      "emotion": "Neutral",
+      "confidence": 0.8426029086112976,
+      "timestamp": "2025-11-02T21:23:15.029779",
+      "session_id": "session_20251102_212314"
+    },
+    {
+      "emotion": "Neutral",
+      "confidence": 0.547349214553833,
+      "timestamp": "2025-11-02T21:23:15.820458",
+      "session_id": "session_20251102_212315"
+    },
+    {
+      "emotion": "Neutral",
+      "confidence": 0.49628838896751404,
+      "timestamp": "2025-11-02T21:23:17.848468",
+      "session_id": "session_20251102_212317"
+    },
+    {
+      "emotion": "Neutral",
+      "confidence": 0.7455237507820129,
+      "timestamp": "2025-11-02T21:23:19.028122",
+      "session_id": "session_20251102_212318"
+    },
+    {
+      "emotion": "Neutral",
+      "confidence": 0.6336290836334229,
+      "timestamp": "2025-11-02T21:23:19.946698",
+      "session_id": "session_20251102_212319"
+    },
+    {
+      "emotion": "Neutral",
+      "confidence": 0.7129937410354614,
+      "timestamp": "2025-11-02T21:23:20.821605",
+      "session_id": "session_20251102_212320"
+    },
+    {
+      "emotion": "Neutral",
+      "confidence": 0.7572052478790283,
+      "timestamp": "2025-11-02T21:23:22.161927",
+      "session_id": "session_20251102_212322"
+    },
+    {
+      "emotion": "Sad",
+      "confidence": 0.4348059594631195,
+      "timestamp": "2025-11-02T21:23:23.571556",
+      "session_id": "session_20251102_212323"
+    }
+  ],
+  "sessions": [
+    {
+      "session_id": "session_20251102_212303",
+      "start_time": "2025-11-02T21:23:03.838961"
+    },
+    {
+      "session_id": "session_20251102_212304",
+      "start_time": "2025-11-02T21:23:04.684295"
+    },
+    {
+      "session_id": "session_20251102_212305",
+      "start_time": "2025-11-02T21:23:05.561208"
+    },
+    {
+      "session_id": "session_20251102_212307",
+      "start_time": "2025-11-02T21:23:07.087096"
+    },
+    {
+      "session_id": "session_20251102_212308",
+      "start_time": "2025-11-02T21:23:08.048796"
+    },
+    {
+      "session_id": "session_20251102_212308",
+      "start_time": "2025-11-02T21:23:08.986935"
+    },
+    {
+      "session_id": "session_20251102_212309",
+      "start_time": "2025-11-02T21:23:09.909819"
+    },
+    {
+      "session_id": "session_20251102_212310",
+      "start_time": "2025-11-02T21:23:10.885486"
+    },
+    {
+      "session_id": "session_20251102_212311",
+      "start_time": "2025-11-02T21:23:11.734808"
+    },
+    {
+      "session_id": "session_20251102_212312",
+      "start_time": "2025-11-02T21:23:12.602517"
+    },
+    {
+      "session_id": "session_20251102_212313",
+      "start_time": "2025-11-02T21:23:13.426991"
+    },
+    {
+      "session_id": "session_20251102_212314",
+      "start_time": "2025-11-02T21:23:14.211379"
+    },
+    {
+      "session_id": "session_20251102_212314",
+      "start_time": "2025-11-02T21:23:14.987362"
+    },
+    {
+      "session_id": "session_20251102_212315",
+      "start_time": "2025-11-02T21:23:15.783203"
+    },
+    {
+      "session_id": "session_20251102_212317",
+      "start_time": "2025-11-02T21:23:17.793983"
+    },
+    {
+      "session_id": "session_20251102_212318",
+      "start_time": "2025-11-02T21:23:18.993732"
+    },
+    {
+      "session_id": "session_20251102_212319",
+      "start_time": "2025-11-02T21:23:19.912112"
+    },
+    {
+      "session_id": "session_20251102_212320",
+      "start_time": "2025-11-02T21:23:20.779834"
+    },
+    {
+      "session_id": "session_20251102_212322",
+      "start_time": "2025-11-02T21:23:22.125834"
+    },
+    {
+      "session_id": "session_20251102_212323",
+      "start_time": "2025-11-02T21:23:23.539513"
+    }
+  ],
+  "preferences": {
+    "theme": "light",
+    "viz_style": "default",
+    "privacy_level": "private"
+  }
+}

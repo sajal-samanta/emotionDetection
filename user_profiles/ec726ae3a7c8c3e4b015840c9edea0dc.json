@@ -1,0 +1,214 @@
+{
+  "username": "samanta",
+  "user_id": "ec726ae3a7c8c3e4b015840c9edea0dc",
+  "created_at": "2025-11-11T21:14:49.761991",
+  "emotion_history": [
+    {
+      "emotion": "Neutral",
+      "confidence": 0.7222527265548706,
+      "timestamp": "2025-11-11T21:15:50.522281",
+      "session_id": "session_20251111_211550"
+    },
+    {
+      "emotion": "Neutral",
+      "confidence": 0.9022482633590698,
+      "timestamp": "2025-11-11T21:15:51.227821",
+      "session_id": "session_20251111_211551"
+    },
+    {
+      "emotion": "Neutral",
+      "confidence": 0.7237931489944458,
+      "timestamp": "2025-11-11T21:15:52.038705",
+      "session_id": "session_20251111_211552"
+    },
+    {
+      "emotion": "Neutral",
+      "confidence": 0.8852598071098328,
+      "timestamp": "2025-11-11T21:15:52.801007",
+      "session_id": "session_20251111_211552"
+    },
+    {
+      "emotion": "Neutral",
+      "confidence": 0.8530852198600769,
+      "timestamp": "2025-11-11T21:15:53.610483",
+      "session_id": "session_20251111_211553"
+    },
+    {
+      "emotion": "Neutral",
+      "confidence": 0.9438012838363647,
+      "timestamp": "2025-11-11T21:15:54.394776",
+      "session_id": "session_20251111_211554"
+    },
+    {
+      "emotion": "Neutral",
+      "confidence": 0.9443334937095642,
+      "timestamp": "2025-11-11T21:15:55.279082",
+      "session_id": "session_20251111_211555"
+    },
+    {
+      "emotion": "Neutral",
+      "confidence": 0.9353341460227966,
+      "timestamp": "2025-11-11T21:15:56.066636",
+      "session_id": "session_20251111_211556"
+    },
+    {
+      "emotion": "Neutral",
+      "confidence": 0.9470317363739014,
+      "timestamp": "2025-11-11T21:15:56.857062",
+      "session_id": "session_20251111_211556"
+    },
+    {
+      "emotion": "Neutral",
+      "confidence": 0.9218875765800476,
+      "timestamp": "2025-11-11T21:15:57.672413",
+      "session_id": "session_20251111_211557"
+    },
+    {
+      "emotion": "Neutral",
+      "confidence": 0.907982587814331,
+      "timestamp": "2025-11-11T21:15:58.579164",
+      "session_id": "session_20251111_211558"
+    },
+    {
+      "emotion": "Neutral",
+      "confidence": 0.9325687885284424,
+      "timestamp": "2025-11-11T21:15:59.422367",
+      "session_id": "session_20251111_211559"
+    },
+    {
+      "emotion": "Neutral",
+      "confidence": 0.896935760974884,
+      "timestamp": "2025-11-11T21:16:00.327545",
+      "session_id": "session_20251111_211600"
+    },
+    {
+      "emotion": "Neutral",
+      "confidence": 0.8041406869888306,
+      "timestamp": "2025-11-11T21:16:01.160195",
+      "session_id": "session_20251111_211601"
+    },
+    {
+      "emotion": "Neutral",
+      "confidence": 0.4640748202800751,
+      "timestamp": "2025-11-11T21:16:01.966964",
+      "session_id": "session_20251111_211601"
+    },
+    {
+      "emotion": "Neutral",
+      "confidence": 0.7354575991630554,
+      "timestamp": "2025-11-11T21:16:02.799873",
+      "session_id": "session_20251111_211602"
+    },
+    {
+      "emotion": "Neutral",
+      "confidence": 0.6315160393714905,
+      "timestamp": "2025-11-11T21:16:03.624152",
+      "session_id": "session_20251111_211603"
+    },
+    {
+      "emotion": "Neutral",
+      "confidence": 0.7000492811203003,
+      "timestamp": "2025-11-11T21:16:04.479578",
+      "session_id": "session_20251111_211604"
+    },
+    {
+      "emotion": "Neutral",
+      "confidence": 0.6638288497924805,
+      "timestamp": "2025-11-11T21:16:05.299408",
+      "session_id": "session_20251111_211605"
+    },
+    {
+      "emotion": "Neutral",
+      "confidence": 0.6422036290168762,
+      "timestamp": "2025-11-11T21:16:06.055844",
+      "session_id": "session_20251111_211606"
+    }
+  ],
+  "sessions": [
+    {
+      "session_id": "session_20251111_211550",
+      "start_time": "2025-11-11T21:15:50.521094"
+    },
+    {
+      "session_id": "session_20251111_211551",
+      "start_time": "2025-11-11T21:15:51.196317"
+    },
+    {
+      "session_id": "session_20251111_211552",
+      "start_time": "2025-11-11T21:15:52.006806"
+    },
+    {
+      "session_id": "session_20251111_211552",
+      "start_time": "2025-11-11T21:15:52.765541"
+    },
+    {
+      "session_id": "session_20251111_211553",
+      "start_time": "2025-11-11T21:15:53.574227"
+    },
+    {
+      "session_id": "session_20251111_211554",
+      "start_time": "2025-11-11T21:15:54.361782"
+    },
+    {
+      "session_id": "session_20251111_211555",
+      "start_time": "2025-11-11T21:15:55.249509"
+    },
+    {
+      "session_id": "session_20251111_211556",
+      "start_time": "2025-11-11T21:15:56.034184"
+    },
+    {
+      "session_id": "session_20251111_211556",
+      "start_time": "2025-11-11T21:15:56.825374"
+    },
+    {
+      "session_id": "session_20251111_211557",
+      "start_time": "2025-11-11T21:15:57.639578"
+    },
+    {
+      "session_id": "session_20251111_211558",
+      "start_time": "2025-11-11T21:15:58.548584"
+    },
+    {
+      "session_id": "session_20251111_211559",
+      "start_time": "2025-11-11T21:15:59.389040"
+    },
+    {
+      "session_id": "session_20251111_211600",
+      "start_time": "2025-11-11T21:16:00.292439"
+    },
+    {
+      "session_id": "session_20251111_211601",
+      "start_time": "2025-11-11T21:16:01.129496"
+    },
+    {
+      "session_id": "session_20251111_211601",
+      "start_time": "2025-11-11T21:16:01.933998"
+    },
+    {
+      "session_id": "session_20251111_211602",
+      "start_time": "2025-11-11T21:16:02.763917"
+    },
+    {
+      "session_id": "session_20251111_211603",
+      "start_time": "2025-11-11T21:16:03.593602"
+    },
+    {
+      "session_id": "session_20251111_211604",
+      "start_time": "2025-11-11T21:16:04.443841"
+    },
+    {
+      "session_id": "session_20251111_211605",
+      "start_time": "2025-11-11T21:16:05.268643"
+    },
+    {
+      "session_id": "session_20251111_211606",
+      "start_time": "2025-11-11T21:16:06.024876"
+    }
+  ],
+  "preferences": {
+    "theme": "light",
+    "viz_style": "default",
+    "privacy_level": "private"
+  }
+}
